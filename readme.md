@@ -123,6 +123,8 @@ The API includes comprehensive error handling:
 
 ## Sample Data
 You can populate the database with sample incidents using Postman or curl:
+<img src="https://i.ibb.co/236cQwHG/Screenshot-2025-04-26-213804.png" alt="Database Structure in pgAdmin" width="100%" />
+
 
 ```bash
 curl -X POST http://localhost:3000/incidents \
